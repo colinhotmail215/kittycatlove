@@ -1,30 +1,30 @@
-# Level-1 / Lesson 1 / Project 1: html 1 and css 1
+ Level-1 / Lesson 1 / Project 1: html 1 and css 1
 
 ![status: ready](https://img.shields.io/badge/status-ready-brightgreen.svg)
 
 ### Skills for this project (please check off the skills the student covered during this project):
 
 **HTML**
- 1. [ ] html tags
- 2. [ ] head tags
- 3. [ ] body tags
- 4. [ ] h & p tags
- 5. [ ] indentation
+ 1. [ x] html tags
+ 2. [ ]x head tags
+ 3. [ x] body tags
+ 4. [x ] h & p tags
+ 5. [ x] indentationbg color
+  2. [ x] text alig
 
 **CSS**
-  1. [ ] bg color
-  2. [ ] text align
-  3. [ ] font color
-  4. [ ] font size
-  5. [ ] px
-  6. [ ] em and strong
+  1. [ x] bg color
+  3. [x] font color
+  4. [ x] font size
+  5. [x ] px
+  6. [ x] em and strong
 
 **Dev Tools**
-  1. [ ] code editors & IDEs
-  2. [ ] github part 1
-  3. [ ] google
+  1. [x] code editors & IDEs
+  2. [ x] github part 1
+  3. [ x] google
 
 ### Project details
-  1. Project name:
-  2. Project summary:
+  1. Project name:#cutenes
+  2. Project summary:Its about things I like.Like Ant farm and tabby cats
   3. Project coordinator:
